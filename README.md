@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/like-a-snake/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Like A Snake](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/like-a-snake/) |
+| **Get License** | [Commercial Licensing for Like A Snake](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/like-a-snake/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `73aded5abe12f409484298dc7e9613d2a9fd74f4647c818aaf854ed90b538076` |
 | **Timestamp** | May 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
