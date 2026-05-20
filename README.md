@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/like-a-snake/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Like A Snake](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/like-a-snake/) |
+| **Get License** | [Official Music Licensing for Like A Snake](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/like-a-snake/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Chup-chaap jehi raat vich catch my eye,
+> Saanu ishq da nasha chadeya soaring high,
+> Ni tu naina naal dangdi ae without a sound,
+> Mere seene ch utardi ae shaking the ground.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
